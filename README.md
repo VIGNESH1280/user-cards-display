@@ -1,5 +1,4 @@
 # user-cards-display
-# User Cards Display
 
 A web application that dynamically fetches and displays user profiles using a public API. Each user profile includes details such as name, email, phone, gender, and photo.
 
